@@ -22,4 +22,4 @@ To run the project in it's fixed (using local fix) state run:
 npm run fixed
 ```
 
-For more info please refer to this GitHub issue and this pull request.
+For more info please refer to [this GitHub issue](https://github.com/open-feature/js-sdk-contrib/issues/1025) and [this pull request](https://github.com/open-feature/js-sdk-contrib/pull/1026).
